@@ -11,7 +11,7 @@ Author: Soumyadeep Ghosh
 <ul>
 <li>Real-time Notifications: </li>
   <p>Receive instant notifications on your Telegram bot as soon as a device connects to your WiFi network.</p>
-<li></li>Easy Integration: </li>
+<li>Easy Integration: </li>
   <p>Simple setup process with clear instructions on configuring your Telegram bot and connecting it to the program.</p>
 <li>iCustomizable Messages: </li>
   <p>Personalize the notification messages sent to your Telegram bot to suit your preferences.</p>
